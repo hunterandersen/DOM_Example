@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    color: white;
+  }
+  header{
+    position: sticky;
+    top: 0px;
+    background-color: black;
+    overflow: hidden;
+  }
+  main {
+    /* border: 5px solid blue; */
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+  }
+  p {
+    color: burlywood;
+  }
+  a {
+    text-decoration: none;
+    color: unset;
+  }
+  nav li {
+    font-size: 28px;
+    display: inline;
+  }
+  footer{
+    text-align: center;
+  }
